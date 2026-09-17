@@ -1,11 +1,11 @@
 # Relay Synth
-Pure Data Patch to sequence two relays as instruments using MIDI
+Pure Data Patch to sequence two relays as instruments using MIDI - works well with 16 step MIDI sequencers
+
+Instructions for Use
 
 Install PD Extended - although discontinued the patch uses many objects including Gate and Counter - 
 
 Requires Arduino (Pduino object here https://puredata.info/downloads/pduino/releases/0.5
-
-Instructions for Use
 
 Connect two relays directly to the PWM outputs of the arduino 0 and 1
 Use a common ground
